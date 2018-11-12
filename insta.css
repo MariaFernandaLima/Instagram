@@ -2,3 +2,38 @@ nav {margin-top: 10px;}
 nav a {border-right: 1px solid black;}
 div h6 card-title {text-indent: right;}
 div img {text-align: center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li h6 {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
