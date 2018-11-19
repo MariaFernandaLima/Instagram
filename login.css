@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li h6 {
+    display: block;
+    color: black;
+    padding: 8px;
+    text-decoration: none;
+}
