@@ -7,6 +7,11 @@ div oi {padding: 0px;
 margin: 0px;}
 p.oi {font-size: 12px;}
 
+.anyClass {
+  height:150px;
+  overflow-y: scroll;
+}
+
 
 
 
